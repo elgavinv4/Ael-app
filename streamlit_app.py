@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("Latihan mekanik patan")
+st.title("FUTSAL")
 st.write(
-    "Latihan bersama mekanik patan biar handal dan jago"
-)
+    "Beragam latihan futsal agar mudah berkembang dan jago)
